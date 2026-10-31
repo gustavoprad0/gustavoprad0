@@ -1,21 +1,13 @@
-<div align="center">
+### Analista de Inovação na Sicredi Norte Sul
 
-# Gustavo
-
-**Innovation Analyst at Sicredi Norte Sul**
-Full-Stack Developer · Software Engineering Student · 22
+Desenvolvedor Full-Stack, 22 anos
+Estudante de Engenharia de Software, 6º semestre
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-</div>
-
 ---
 
-<table align="center">
-<tr>
-<td valign="top" width="33%">
-
-### Currently working with
+### Trabalhando atualmente com
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
@@ -23,10 +15,14 @@ Full-Stack Developer · Software Engineering Student · 22
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white)
 
-</td>
-<td valign="top" width="33%">
+### Infraestrutura e APIs
 
-### Experience with
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Kong](https://img.shields.io/badge/Kong-003459?style=flat-square&logo=kong&logoColor=white)
+
+### Experiência com
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=ffdd54)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
@@ -34,22 +30,7 @@ Full-Stack Developer · Software Engineering Student · 22
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-</td>
-<td valign="top" width="33%">
-
-### Interested in learning
+### Interesse em aprender
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-Software Engineering at UNIFIO · Ourinhos, SP · Brazil
-
-</div>
