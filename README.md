@@ -1,10 +1,19 @@
-Software Engineering student
----
-22 years old Full-Stack Developer
+<div align="center">
 
-![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?style=flat-square&logo=windows11&logoColor=white)
+# Gustavo
+
+**Innovation Analyst at Sicredi Norte Sul**
+Full-Stack Developer · Software Engineering Student · 22
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+</div>
 
 ---
+
+<table align="center">
+<tr>
+<td valign="top" width="33%">
 
 ### Currently working with
 
@@ -14,6 +23,9 @@ Software Engineering student
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white)
 
+</td>
+<td valign="top" width="33%">
+
 ### Experience with
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=ffdd54)
@@ -22,8 +34,22 @@ Software Engineering student
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
+</td>
+<td valign="top" width="33%">
+
 ### Interested in learning
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+Software Engineering at UNIFIO · Ourinhos, SP · Brazil
+
+</div>
