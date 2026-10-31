@@ -1,2 +1,3 @@
-<img src="./header.svg" align="top" /><br>
-<img src="./contato-esq.svg" align="top" />[<img src="./contato-portfolio.svg" align="top" />](https://portfolio.gustavopradoriol.workers.dev/)[<img src="./contato-gmail.svg" align="top" />](mailto:gustavopradoriol@gmail.com)[<img src="./contato-linkedin.svg" align="top" />](https://www.linkedin.com/in/gustavo-prado-57506a26b/)<img src="./contato-dir.svg" align="top" />
+<div align="center">
+<img src="./header.svg" width="800" alt="Desenvolvedor Full Stack" /><div style="font-size:0;line-height:0;"><img src="./contato-esq.svg" width="36" height="58" /><a href="https://portfolio.gustavopradoriol.workers.dev/"><img src="./contato-portfolio.svg" width="124" height="58" alt="Portfólio" /></a><a href="mailto:gustavopradoriol@gmail.com"><img src="./contato-gmail.svg" width="93" height="58" alt="Gmail" /></a><a href="https://www.linkedin.com/in/gustavo-prado-57506a26b/"><img src="./contato-linkedin.svg" width="116" height="58" alt="LinkedIn" /></a><img src="./contato-dir.svg" width="431" height="58" /></div>
+</div>
